@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_primary">#0B0B0F</color>
+    <color name="surface_dark">#120D1F</color>
+    <color name="surface_card">#1A132B</color>
+    <color name="surface_card_selected">#251A40</color>
+    <color name="purple_accent">#8B5CF6</color>
+    <color name="purple_glow">#A855F7</color>
+    <color name="violet_light">#C084FC</color>
+    <color name="gold_accent">#FACC15</color>
+    <color name="text_white">#F9FAFB</color>
+    <color name="text_muted">#9CA3AF</color>
+    <color name="border_glow">#4C1D95</color>
+</resources>

@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Dark violet background circle -->
+    <path
+        android:fillColor="#0E0A1A"
+        android:pathData="M64,64m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0" />
+
+    <!-- Radiant Violet Glow Outer Ring -->
+    <path
+        android:strokeColor="#8B5CF6"
+        android:strokeWidth="3.5"
+        android:pathData="M64,64m-52,0a52,52 0,1 1,104 0a52,52 0,1 1,-104 0" />
+
+    <!-- Headphone Arch (Violet gradient) -->
+    <path
+        android:strokeColor="#C084FC"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M34,68 C34,42 46,30 64,30 C82,30 94,42 94,68" />
+
+    <!-- Headphone Ear Cups -->
+    <!-- Left Cup -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M28,64 L36,64 A4,4 0 0,1 40,68 L40,86 A4,4 0 0,1 36,90 L28,90 A4,4 0 0,1 24,86 L24,68 A4,4 0 0,1 28,64 Z" />
+    <!-- Right Cup -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M92,64 L100,64 A4,4 0 0,1 104,68 L104,86 A4,4 0 0,1 100,90 L92,90 A4,4 0 0,1 88,86 L88,68 A4,4 0 0,1 92,64 Z" />
+
+    <!-- Golden Eighth / Sixteenth Music Note Centerpiece -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M58,46 L78,41 L78,68 A8,8 0 1,1 70,60 A8,8 0 0,1 74,61 L74,48 L62,51 L62,74 A8,8 0 1,1 54,66 A8,8 0 0,1 58,67 L58,46 Z" />
+
+    <!-- Equalizer Sound Wave Bars at Bottom Center -->
+    <path
+        android:strokeColor="#FACC15"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M48,98 L48,104 M56,94 L56,108 M64,90 L64,112 M72,94 L72,108 M80,98 L80,104" />
+</vector>

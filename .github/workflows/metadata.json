@@ -1,0 +1,6 @@
+{
+  "name": "Aurum Music - Native Android Player",
+  "description": "High-fidelity native Android music player with Jetpack Compose, Material 3, Media3 ExoPlayer, Room, and custom audio engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
